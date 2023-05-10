@@ -1,2 +1,2 @@
-# DataScienceEcosystem
-Exercise files
+# DataScienceEcosystem Jupyter Notebook
+Assignment exercise files
